@@ -1,15 +1,17 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f3f4f6;
-  }
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('/Users/kennyverse/Desktop/myproject/Mental Health quiz/Quiz/IMG_0485.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
   
   .quiz-container {
     background: #fff;
